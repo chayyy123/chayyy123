@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi, I'm Marc!
+
+
+Software Engineer Student <br/>
+👩🏻‍🎓 Studies [Computer Science] at the FEU Alabang, Philippines<br/>
 
 <!--
 **chayyy123/chayyy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
